@@ -1,3 +1,6 @@
 {
-  "devDependencies": {}
+  "name": "hardhat-crowdfunding-frontend",
+  "author": "Raushan Sharma",
+  "version": "1.0.0"
+
 }
